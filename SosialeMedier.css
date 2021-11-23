@@ -1,0 +1,70 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2795FD;
+}
+
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 26px;
+  text-decoration: none;
+  font-family: Impact;
+}
+
+li a:hover {
+  background-color: #16151D;
+}
+
+ol li a {
+  color: white;
+  text-align: center;
+  padding: 20px 26px;
+  text-decoration: none;
+  font-family: Impact;
+
+}
+
+ol li {
+  float: none;
+  ont-size: 25px;
+  font-family: verdana;
+  color: #2795FD;
+  }
+
+
+h1 {
+  text-align: center;
+  font-size: 78px;
+  font-family: Impact;
+  color: #2795FD;
+}
+body {
+text-align: center;
+  padding:0;
+  background-color: #272B58;
+}
+p {
+font-size: 25px;
+font-family: verdana;
+color: #2795FD;
+}
+
+h2 {
+  text-align: center;
+  font-size: 39px;
+  font-family: Impact;
+  color: #2795FD;
+}
+
+h3 {
+  text-align: center;
+  font-size: 78px;
+  font-family: Impact;
+  color: #2795FD;
